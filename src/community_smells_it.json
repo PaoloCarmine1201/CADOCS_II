@@ -1,0 +1,90 @@
+
+[
+    {
+        "acronym":"OSE",
+        "name":"Organizational Silo Effect",
+        "description":"Sono presenti aree isolate della community che non comunicano, se non attraverso una o due persone del loro rispettivo team.",
+        "emoji":"👥👤👥",
+        "strategies": [    
+            {"strategy":"Creare un piano di comunicazione", "stars":"⭐️⭐️⭐️"}, 
+            {"strategy":"Ristrutturare la community", "stars":"⭐️⭐️"},
+            {"strategy":"Introdurre un meccanismo di sanzionamento legato alla comunicazione", "stars":"⭐️⭐️"},
+            {"strategy":"Tutoraggio", "stars":"⭐️⭐️"},
+            {"strategy":"Esercizi di coesione", "stars":"⭐️⭐️"},
+            {"strategy":"Monitoraggio", "stars":"⭐️"}
+        ]
+    },
+    {
+        "acronym":"BCE",
+        "name":"Black-cloud Effect",
+        "description":"Sovraccarico di informazioni dovuto alla mancanza di comunicazioni strutturate o di un sistema di governance della cooperazione.",
+        "emoji":"⚫️☁⚫️",
+        "strategies":[
+            {"strategy":"Creare un piano di comunicazione", "stars":"⭐️⭐️⭐️"}, 
+            {"strategy":"Ristrutturare la community", "stars":"⭐️⭐️"},
+            {"strategy":"Introdurre un meccanismo di sanzionamento legato alla comunicazione", "stars":"⭐️⭐️"}]
+    },
+    {
+        "acronym":"PDE",
+        "name":"Prima-donnas Effect",
+        "description":"Un team di persone non \u00E8 propenso a rispettare i cambiamenti esterni delle altre persone del team a causa di una collaborazione strutturata in modo inefficiente all'interno di una community.",
+        "emoji":"✨👑💎",
+        "strategies": []
+    },
+    {
+        "acronym":"SV",
+        "name":"Sharing Villainy",
+        "description":"A causa della mancanza di attivit\u00E0 di scambio di informazioni, le persone del team condividono conoscenze essenziali come informazioni obsolete, errate e non confermate.",
+        "emoji":"💁💬❌🙅",
+        "strategies": []
+    },
+    {
+        "acronym":"OS",
+        "name":"Organizational Skirmish",
+        "description":"Un disallineamento tra i diversi livelli di competenza delle persone coinvolte nel progetto porta a un calo della produttivit\u00E0 e influisce sulla tempistica e sui costi del progetto.",
+        "emoji":"😀💬😨❓",
+        "strategies":[]
+    },
+    {
+        "acronym":"SD",
+        "name":"Solution Defiance",
+        "description":"La comunit\u00E0 di sviluppo presenta diversi livelli di background culturale e di esperienza, che portano alla divisione della community in sottogruppi simili con opinioni completamente contrastanti.",
+        "emoji":"👥⚡👥⚡👥",
+        "strategies": []
+    },
+    {
+        "acronym":"RS",
+        "name":"Radio Silence",
+        "description":"Una persona si interpone in ogni interazione formale tra pi\u00F9 sottocommunity, con poca flessibilit\u00E0 nell'introdurre altri canali.",
+        "emoji":"🔇📻🔇",
+        "strategies":[
+            {"strategy":"Ristrutturare la community", "stars":"⭐️⭐️"}, 
+            {"strategy":"Creare un piano di comunicazione", "stars":"⭐️⭐️⭐️"}, 
+            {"strategy":"Tutoraggio", "stars":"⭐️⭐️"}, 
+            {"strategy":"Esercizi di coesione", "stars":"⭐️⭐️"}, 
+            {"strategy":"Monitoraggio", "stars":"⭐️"}, 
+            {"strategy":"Introdurre un meccanismo di premiazione legato alla comunicazione", "stars":"⭐️⭐️"}
+        ]
+    },
+    {
+        "acronym":"TF",
+        "name":"Truck Factor Smell",
+        "description":"Rischio di una significativa perdita di conoscenze a causa del turnover delle persone del team, dovuto al fatto che le informazioni e le conoscenze del progetto sono concentrate in una minoranza di persone.",
+        "emoji":"🚚🏃🏼‍♂️🏃🏼‍♂️",
+        "strategies": []
+    },
+    {
+        "acronym":"UI",
+        "name":"Unhealthy Interaction",
+        "description":"Lunghi rinvii nelle comunicazioni con gli stakeholder causano conversazioni e discussioni lente, leggere e brevi.",
+        "emoji":"😶😶😶",
+        "strategies": []
+    },
+    {
+        "acronym":"TC",
+        "name":"Toxic Communication",
+        "description":"Interazioni tossiche ed opinioni contrastanti tra le persone del progetto potrebbero spingerli ad abbandonare al progetto.",
+        "emoji":"👤😡👤",
+        "strategies": []
+    }
+]

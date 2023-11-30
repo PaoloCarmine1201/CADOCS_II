@@ -1,0 +1,90 @@
+
+    [
+        {
+            "acronym":"OSE",
+            "name":"Organizational Silo Effect",
+            "description":"Siloed areas of the community that do not communicate, except through one or two of their respective members.",
+            "emoji":"👥👤👥",
+            "strategies": [    
+                {"strategy":"Create communication plan", "stars":"⭐️⭐️⭐️"}, 
+                {"strategy":"Restructure the community", "stars":"⭐️⭐️"},
+                {"strategy":"Introduce a Social sanctioning mechanism", "stars":"⭐️⭐️"},
+                {"strategy":"Mentoring", "stars":"⭐️⭐️"},
+                {"strategy":"Cohesion exercising", "stars":"⭐️⭐️"},
+                {"strategy":"Monitoring", "stars":"⭐️"}
+            ]
+        },
+        {
+            "acronym":"BCE",
+            "name":"Black-cloud Effect",
+            "description":"Information overload due to lack of structured communications or cooperation governance.",
+            "emoji":"⚫️☁⚫️",
+            "strategies":[
+                {"strategy":"Create communication plan", "stars":"⭐️⭐️⭐️"}, 
+                {"strategy":"Restructure the community", "stars":"⭐️⭐️"},
+                {"strategy":"Introduce a Social sanctioning mechanism", "stars":"⭐️⭐️"}]
+        },
+        {
+            "acronym":"PDE",
+            "name":"Prima-donnas Effect",
+            "description":"A team of people is unwilling to respect external changes from other team members due to inefficiently structured collaboration within a community.",
+            "emoji":"✨👑💎",
+            "strategies": []
+        },
+        {
+            "acronym":"SV",
+            "name":"Sharing Villainy",
+            "description":"Cause of a lack of information exchange activities, team members share essential knowledge such as outdated, wrong and unconfirmed information.",
+            "emoji":"💁💬❌🙅",
+            "strategies": []
+        },
+        {
+            "acronym":"OS",
+            "name":"Organizational Skirmish",
+            "description":"A misalignment between different expertise levels of individuals involved in the project leads to dropped productivity and affects the project's timeline and cost.",
+            "emoji":"😀💬😨❓",
+            "strategies":[]
+        },
+        {
+            "acronym":"SD",
+            "name":"Solution Defiance",
+            "description":"The development community presents different levels of cultural and experience background, leading to the division of the community into similar subgroups with completely conflicting opinions.",
+            "emoji":"👥⚡👥⚡👥",
+            "strategies": []
+        },
+        {
+            "acronym":"RS",
+            "name":"Radio Silence",
+            "description":"One member interposes herself into every formal interaction across more sub-communities with little flexibility to introduce other channels.",
+            "emoji":"🔇📻🔇",
+            "strategies":[
+                {"strategy":"Restructure the community", "stars":"⭐️⭐️"}, 
+                {"strategy":"Create communication plan", "stars":"⭐️⭐️⭐️"}, 
+                {"strategy":"Mentoring", "stars":"⭐️⭐️"}, 
+                {"strategy":"Cohesion exercising", "stars":"⭐️⭐️"}, 
+                {"strategy":"Monitoring", "stars":"⭐️"}, 
+                {"strategy":"Introduce a social-rewarding mechanism", "stars":"⭐️⭐️"}
+            ]
+        },
+        {
+            "acronym":"TF",
+            "name":"Truck Factor Smell",
+            "description":"Risk of significant knowledge loss due to the turnover of developers resulting from the fact that project information and knowledge are concentrated in a minority of the developers.",
+            "emoji":"🚚🏃🏼‍♂️🏃🏼‍♂️",
+            "strategies": []
+        },
+        {
+            "acronym":"UI",
+            "name":"Unhealthy Interaction",
+            "description":"Long delays in stakeholder communications cause slow, light and brief conversations and discussions.",
+            "emoji":"😶😶😶",
+            "strategies": []
+        },
+        {
+            "acronym":"TC",
+            "name":"Toxic Communication",
+            "description":"Toxic interactions and conflicting opinions among developers could push them to leave the project.",
+            "emoji":"👤😡👤",
+            "strategies": []
+        }
+    ]

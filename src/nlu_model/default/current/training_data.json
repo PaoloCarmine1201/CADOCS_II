@@ -1,0 +1,585 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "get_smells",
+        "text": "Hello CADOCS, can you tell me which community smells are present in the repository LINK please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS, tell which community smells are present in the repository LINK ?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CADOCS can you tell which community smells are present in the LINK ?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "I would like to know what are the community smells in this LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "What are the community smells in the LINK project?\""
+      },
+      {
+        "intent": "get_smells",
+        "text": "Are there any community smell here, LINK?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Search community smells in the repository LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "give me the community smells in LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CADOCS, can you tell me which community smells are present in the project LINK please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey! Community smells on LINK ?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS could you tell me which community smells are in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hello, can you please tell me the community smells present in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hello CASOCS, can you please tell me what are the community smells in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Can you please list me the community smells in the repository LINK?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey, what are the community in this LINK repository?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CADOCS, show me the community smells present in repository LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "I'd like to understand why contributors of LINK don't work well"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CAD show me the community smells in this repo LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey Cadocs, which are the community smells in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CADOCS, which community smells are present here LINK?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hi CADOCS, find community smells in the LINK project"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Tell me all the community smells in this repo LINK"
+      },
+      {
+        "intent": "get_smells",
+        "text": "hello , what are the main community smells in the LINK project ?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey, can you scan this LINK for me?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS, which community smells are in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "CADOCS, search for smells in the LINK repo"
+      },
+      {
+        "intent": "get_smells",
+        "text": "hi, what are the community smells in the LINK project"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS, can you tell which community smells are present in the repository LINK please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hi CADOCS, wich community are present in this repository LINK?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hi, do you know what are the community smells in LINK repo?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "hi, are there community smells in the LINK project??"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS, what are the community smells in the repository LINK please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hello CADOCS, can you tell which community smells are present in the repository LINK please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hey CADOCS, could you check if the repository at this LINK has community smells please?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "Hi CADOCS, could you check which community smells are present in the LINK project?"
+      },
+      {
+        "intent": "get_smells",
+        "text": "What are the community smells in the LINK project?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hello CADOCS, you tell which community smells are present in the repository LINK after 03/21/2019?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey CADOCS,  tell which community smells are present in the repository LINK after 03/23/2019"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS can you tell which community smells are present in the repository LINK after 01/16/2028?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "I would like to know what ate the community smells in this repo LINK starting from this date MM/DD/YYYY"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Community smells in the LINK project from 27/04/2022?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS can you check community smells in LINK starting from 18/04/2010?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Search community smells in the repository LINK after 12/19/2021"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "give me the community smells in LINK from on"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS! Can you tell me which community smells are present in the repo LINK after the 03/30/2021?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey! Community smells on LINK starting from 01/01/2020?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey CADOCS, can you tell which community smells are present in the repository LINK after 04/12/2016?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hello, can you please tell me the community smells present in the LINK project before 07/07/2021?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi CADOCS, can you please tell me what community smells are there in the LINK project starting from 06/09/2020?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "List me the community smells in LINK starting from 03/03/2020"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS, can you tell me which community smells are present in this repository LINK after 05/01/2020?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS, shoebke the community smells present in repository LINK after 12/19/2021"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Since June 23, 2020 the team in LINK have been acting weird. Why?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CAD show me the community smells in this repo LINK starting from MM/DD/YYYY"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "hey cadocs, which are the community smells in the LINK project from 12/19/2021?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS, which community smells are present here LINK after the 03/07/2022"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi CADOCS, are there any community smells in the LINK project starting from 11/11/2011?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Find all the community smells of this repo LINK from 05/05/2021"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hello CADOCS , which are the main community smells in the LINK pronject after 07/06/2020  ?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi, what are the smells in this repository LINK starting from 05/06/2017?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey CADOCS, which community smells are in the LINK project After 10/10/2020?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "CADOCS, search for smells in the LINK repo after 08/08/2018"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "hi, what are the community smells in the LINK project starting from 12/19/2021??"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi, what are the community smells in the LINK Project starting from 12/19/2021?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi CADOCS witch community smells are in this repository LINK from 05/06/2022"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hi, i need all the community smells in LINK project after 31/12/2000"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "can you tell which community smells are present in the repository LINK defore 03/23/2020?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey CADOCS, what are the community smells in the repository LINK project starting from 26/11/1999?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hello, what are the community smells in the LINK project date 12/12/20? Thanks in advance"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "Hey CADOCS, could you check if the repository at this LINK has community smells, starting from 01/05/2020 please?"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "hi CADOCS, could you check which smells of the community are present in the LINK project starting from 22/02/2020"
+      },
+      {
+        "intent": "get_smells_date",
+        "text": "What are the community smells in the LINK project after 03/04/2020?"
+      },
+      {
+        "intent": "report",
+        "text": "Hello CADOCS, I need a report of your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Hey CADOCS, give me a report of your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "CADOCS I need a report on your last execution, can you give it to me?"
+      },
+      {
+        "intent": "report",
+        "text": "show a report about the last execution"
+      },
+      {
+        "intent": "report",
+        "text": "I need a report of the last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Illustrate to me the last execution's report"
+      },
+      {
+        "intent": "report",
+        "text": "Give me last execution's report"
+      },
+      {
+        "intent": "report",
+        "text": "give me a report about the last execution"
+      },
+      {
+        "intent": "report",
+        "text": "CADOCS, can you generate to me a report of your last execution?"
+      },
+      {
+        "intent": "report",
+        "text": "Hey! Last execution?"
+      },
+      {
+        "intent": "report",
+        "text": "Hello, can you show me the information about your last execution, please?"
+      },
+      {
+        "intent": "report",
+        "text": "Give me documentation about your last execution, please."
+      },
+      {
+        "intent": "report",
+        "text": "Please show me a report of your last execution."
+      },
+      {
+        "intent": "report",
+        "text": "Give me the report of your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "CADOCS, show me the info about your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "CADOCS, show me the results of your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Could you make me a summary of what you did last time?"
+      },
+      {
+        "intent": "report",
+        "text": "CAD i want a report of last execution"
+      },
+      {
+        "intent": "report",
+        "text": "hey cadocs, show me about your last execution."
+      },
+      {
+        "intent": "report",
+        "text": "Show me information about your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Hi CADOCS, show me the report of your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Give me the report of the last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Show mr th last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Show me your last smell detection"
+      },
+      {
+        "intent": "report",
+        "text": "Hey CADOCS, report your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "CADOCS, report"
+      },
+      {
+        "intent": "report",
+        "text": "hello, show me information about your last execution."
+      },
+      {
+        "intent": "report",
+        "text": "I need a report if your last execution please"
+      },
+      {
+        "intent": "report",
+        "text": "Hi CADOCS give me the report of last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Hi, show me last execution report"
+      },
+      {
+        "intent": "report",
+        "text": "I, tell me somethings  about your last execution"
+      },
+      {
+        "intent": "report",
+        "text": "Hey CADOCS, I need a report of your last execution please"
+      },
+      {
+        "intent": "report",
+        "text": "Hello, i need a report of your last task execution. Thanks in advance"
+      },
+      {
+        "intent": "report",
+        "text": "hello CADOCS, please give me a report about your last execution!"
+      },
+      {
+        "intent": "report",
+        "text": "Could you give me a report on your last execution?"
+      },
+      {
+        "intent": "report",
+        "text": "Give me a report of your lady execution."
+      },
+      {
+        "intent": "info",
+        "text": "Hello CADOCS, what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS, what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS i wanna know what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "I want to know more about the community smells detected"
+      },
+      {
+        "intent": "info",
+        "text": "What community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "What can you detect about community smells?"
+      },
+      {
+        "intent": "info",
+        "text": "Give me community smells detected"
+      },
+      {
+        "intent": "info",
+        "text": "what can you do?"
+      },
+      {
+        "intent": "info",
+        "text": "CADOS! Can you give me more information about the community smells that you can detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hey! What are the community smells you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS, what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS, in which field do you act?"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS can you tell me more about the community smells you can detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hi, what community smells are you able to find?"
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS, what community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "What are these community smells? How do I found more about community smells? What can you do for me?"
+      },
+      {
+        "intent": "info",
+        "text": "CAD i want more information about community smells found"
+      },
+      {
+        "intent": "info",
+        "text": "Hey cadocs, tell me about your community smells."
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS, what community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hi CADOCS, which community smells are you able to detect?"
+      },
+      {
+        "intent": "info",
+        "text": "What type of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Which kind of community smells can you detect ?"
+      },
+      {
+        "intent": "info",
+        "text": "Tell me more about community smells"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS, tell me more about community smells"
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS whay kind of smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "hey CADOCS i wanna know more about community smells"
+      },
+      {
+        "intent": "info",
+        "text": "What kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Hi CADOCS show me all kind of community you detect"
+      },
+      {
+        "intent": "info",
+        "text": "Hi, do you know what are community smells?"
+      },
+      {
+        "intent": "info",
+        "text": "hey CADOCS tell me somethings  about community smells"
+      },
+      {
+        "intent": "info",
+        "text": "Hey CADOCS, what kind of community smells can you detect?"
+      },
+      {
+        "intent": "info",
+        "text": "I wanna know more about community smells, it seems interesting"
+      },
+      {
+        "intent": "info",
+        "text": "hey CADOCS, can you show me some informations about community smells that you can detect?"
+      },
+      {
+        "intent": "info",
+        "text": "Could you tell me more about community smells and which ones you can detect?"
+      },
+      {
+        "intent": "info",
+        "text": "CADOCS, What community smells have you detected?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
