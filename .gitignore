@@ -10,3 +10,5 @@ ambiente
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+toolGui.spec
+build/
